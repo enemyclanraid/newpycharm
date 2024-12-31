@@ -52,4 +52,4 @@ nstrfi = int(nstrf)
 ost = nstrfi % 10
 
 print(ost)
-
+#print(ost)
